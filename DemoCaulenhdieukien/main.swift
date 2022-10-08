@@ -28,7 +28,7 @@ if a == 0 {
 }else if(a>0){
     print("a lớn hơn 0")
 }else{
-    print("a nhỏ hơn 0")
+    print("a nhỏ hơn 00")
 }
 
 //bai tập : Nhập vào số điện của 1 hộ gia đình và tính số tiền điện phải trả
@@ -105,7 +105,7 @@ repeat{
     print("Nhập ngày:")
     ngay = Int(readLine()!)!
 } while ngay > 31
-            print("Nhập tháng: ")
+            print("Nhập tháng : ")
             thang = Int(readLine()!)!
             print("Nhập năm: ")
             nam = Int(readLine()!)!
